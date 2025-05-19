@@ -13,7 +13,7 @@ Cyber Security Professional / Creative Problem Solver / IT All Rounder / Art & M
 
 ## Intro
 
-**Hi!** I'm Craig and I have worked in IT and Cybersecurity since 2011. In that time, I have done a little bit of (almost) everything. From Windows desktop support and managing printers to Linux server provisioning and Microsoft 365 administration. I am a creative and interested person who enjoys solving complex issues and sharing knowledge. In recent years my roles have been Cybersecurity focussed where I have specialized in identity & acces management, EDR administration, application control and email security amongst other things.
+**Hi!** I'm Craig and I have worked in IT and Cybersecurity since 2011. In that time, I have done a little bit of (almost) everything. From Windows desktop support and managing printers to Linux server provisioning and Microsoft 365 administration. I am a creative and interested person who enjoys solving complex issues and sharing knowledge. In recent years my roles have been Cybersecurity focussed where I have specialized in identity & access management, EDR administration, application control and email security amongst other things.
 
 Documentation and effective communication have been pillars of my work since the beginning, where I was responsible not only for delivering technical project work, but also company wide project updates and instructional guides. I thrive as part of a team, helping to upskill others as well as learn from them.
 
