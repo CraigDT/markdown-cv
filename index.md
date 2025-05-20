@@ -3,6 +3,7 @@ layout: cv
 title: Craig Linke
 ---
 # Craig Linke
+<br>
 Cyber Security Professional / Creative Problem Solver / IT All Rounder / Art & Music Enthusiast
 
 <div id="webaddress">
@@ -10,19 +11,19 @@ Cyber Security Professional / Creative Problem Solver / IT All Rounder / Art & M
 | <a href="https://github.com/CraigDT">GitHub</a>
 </div>
 
-
 ## Intro
 
-**Hi!** I'm Craig and I have worked in IT and Cybersecurity since 2011. In that time, I have done a little bit of (almost) everything. From Windows desktop support and managing printers to Linux server provisioning and Microsoft 365 administration. I am a creative and interested person who enjoys solving complex issues and sharing knowledge. In recent years my roles have been Cybersecurity focussed where I have specialized in identity & access management, EDR administration, application control and email security amongst other things.
+**Hi!** I'm Craig and I have worked in IT and Cybersecurity since 2011. In that time, I have done a little bit of (almost) everything. From Windows desktop support and managing printers to Linux server provisioning and Microsoft 365 administration. I am a creative and interested person who enjoys solving complex issues and sharing knowledge. 
+
+In recent years my roles have been Cybersecurity focussed where I have specialized in identity & access management, EDR administration, application control and email security amongst other things.
 
 Documentation and effective communication have been pillars of my work since the beginning, where I was responsible not only for delivering technical project work, but also company wide project updates and instructional guides. I thrive as part of a team, helping to upskill others as well as learn from them.
 
 Outside of work I enjoy photography, films, playing music and a nice wine or craft beer.
 
-<!-- ## Core Skills / Interests -->
+I am based in *Perth, Western Australia*, open to *remote* and *hybrid* roles.
 
-<!-- Bulleted list of stuff -->
-
+*(If you received this document as a PDF you may want to <a href="https://cv.craiglinke.com">view it online</a> for a better experience.)*
 
 ## Career Details
 
@@ -46,11 +47,11 @@ I worked in collaboration with other teams within Falcon Complete and the wider 
 
 The Cyber Defence Team is responsible for evaluation, selection and implementation of Ever Nimble's managed Cyber Security tooling. This includes deployment and configuration of CrowdStrike Falcon, Proofpoint email security, Avanan email and collaboration protection, Threatlocker Application Control and Threat Defence Managed SOC/SIEM platform, amongst others.
 
-As the Team Leader for Cyber Defence I was involved in cyber operations, building up new standards and procedures, improving alerting to reduce noise and acting as an escalation point for our Cyber Response Team. I also provided our consulting customers with professional services support when they were implementing new cyber security solutions, including CrowdStrike and Avanan.  I was also heavily involved in the security configuration of Microsoft 365, including developing and implementing security standards for multi-factor authentication and conditional access. 
+As the Team Leader for Cyber Defence I was involved in cyber operations, building up new standards and procedures, improving alerting to reduce noise and acting as an escalation point for the Cyber Response Team. I also provided consulting customers with professional services for implementing new cyber security solutions, including CrowdStrike and Avanan.  I was also heavily involved in the security configuration of Microsoft 365, including developing and implementing security standards for multi-factor authentication and conditional access. 
 
 *Key Achievements*
-* Improvement of CrowdStrike Falcon workflows, policies and standards
-* Design and deployment of Microsoft 365 Security Standards, including implementation of Conditional Access Policies
+* Improvement of CrowdStrike Falcon workflows, policies and standards.
+* Design and deployment of Microsoft 365 Security Standards, including implementation of Conditional Access Policies.
 * Evaluation, selection and implementation of Threat Defence managed SOC/SIEM platform.
 
 `Aug 2021 - Oct 2022`
@@ -58,7 +59,7 @@ As the Team Leader for Cyber Defence I was involved in cyber operations, buildin
 
 **Team Leader - Onboarding**
 
-The Ever Nimble Onboarding Team started as an offshoot from the Implementation team, focused purely on onboarding new clients and building customer relationships. I led the Onboarding team reporting to the CTO/COO and then Manager of Procurement. Responsibilities included project management of client onboarding, working with the team to implement managed services and identification risks and opportunities during onboarding.
+The Ever Nimble Onboarding Team started as an offshoot from the Implementation team, focused purely on onboarding new clients and building customer relationships. I led the Onboarding team reporting to the CTO/COO and then Manager of Procurement. Responsibilities included project management of client onboarding, working with the team to implement managed services and identification of risks and opportunities during onboarding.
 
 *Key Achievements*
 * Designing new procedures and processes for onboarding.
@@ -84,7 +85,7 @@ Leading a small team in the scoping, design and delivery of client projects. Inc
 Providing IT Support, Project Design and Implementation to internal and external clients. Supporting and assisting the Reactive Support team with escalations, troubleshooting and training. Implementing Ever Nimble's suite of managed services, training clients and documenting IT environments to a high standard. Managed Services include Microsoft 365, including migration to Exchange Online, ProofPoint spam filter, Fortigate firewall configuration and deployment, domain and DNS management.
 
 *Key Achievements*
-* Internet and VoIP refresh for 20+ Physiotherapy clinics across Perth Metro Area.
+* Internet and VoIP refresh for 20+ allied health clinics across Perth Metro Area.
 * Custom Windows provisioning solution with PowerShell and RMM tools to automate large laptop rollout.
 
 `Oct 2017 - Sep 2019`
@@ -92,9 +93,9 @@ Providing IT Support, Project Design and Implementation to internal and external
 
 **Senior Technical Support Officer (Infrastructure)**
 
-Providing third level technical and infrastructure support to diverse system custodians and end users throughout Western Australia. Windows and Linux server provisioning and maintenance utilising PowerShell, Bash and Python. Server patching, storage configuration, backup configuration and networking. Vulnerability and threat logging, monitoring and mitigation for servers, network infrastructure and web applications. Configuration of virtual environments including Hyper-V and Proxmox VE.
+Providing third level technical and infrastructure support to diverse system custodians and end users throughout Western Australia. Windows and Linux server provisioning and maintenance utilising PowerShell, Bash and Python. Server patching, storage configuration, backup configuration and networking. Vulnerability and threat logging, monitoring and mitigation for servers, network infrastructure and web applications. Administration of virtual environments including Hyper-V and Proxmox VE.
 
-Microsoft 365 configuration and support, including security response, white-listing and threat monitoring. Active Directory user/computer management utilising Powershell and Windows tools. Creating and maintaining accurate and detailed documentation for IT systems and procedures using Azure Wiki based docs-as-code workflow.
+Microsoft 365 configuration and support, including security response, allowlisting and threat monitoring. Active Directory user/computer management utilising Powershell and Windows tools. Creating and maintaining accurate and detailed documentation for IT systems and procedures using Azure Wiki based docs-as-code workflow.
 
 *Key Achievements*
 * Promoted to Acting Team Leader for Identity & Access Management/Software.
@@ -108,14 +109,14 @@ Microsoft 365 configuration and support, including security response, white-list
 
 **Technical Support Officer**
 
-Providing level 1-3 support and troubleshooting for software, hardware and network systems. Phone, email and desk side support for a diverse staff spread throughout Western Australia. Windows environment account management including Active Directory and Office 365/Exchange Online. Performing Windows 10 in place upgrades and new deployments using Microsoft Deployment Tools.
+Providing level 1-3 support and troubleshooting for software, hardware and network systems. Phone, email and desk side support for a diverse staff spread throughout Western Australia. Windows environment account management including Active Directory and Office 365/Exchange Online. Performing Windows deployments using Microsoft Deployment Tools.
 
 Monitoring and triaging user requests and system alerts in ticketing systems, incident tracking and management.
 
 Ensuring requests are correctly prioritised and actioned within agreed time frames. Maintaining a high standard of communication with end users and colleagues, providing appropriate and comprehensive information.
 
 *Key Achievements*
-* Completed backlog of laptop and PC imaging.
+* Completed backlog of laptop and PC imaging/Windows 10 upgrades.
 * Documentation and design for remote site backup solution upgrade.
 
 `Dec 2014 - Aug 2017`
@@ -123,11 +124,11 @@ Ensuring requests are correctly prioritised and actioned within agreed time fram
 
 **IT Support Officer**
 
-Providing level 1-3 desktop support in a Windows Active Directory environment, including Microsoft Office applications, Exchange, Office 365 and Windows Server. Desk-side and remote support for users both local and around Australia. Specialist application support including Adobe Creative Cloud, AutoDesk CAD/BIM and ArcGIS packages. PABX. Mobile (iOS and Android) device setup and support. Troubleshooting network/Wi-Fi and printer issues. Audio visual set up and support including Cisco Telepresence Video Conferencing system.
+Providing level 1-3 desktop support in a Windows Active Directory environment, including Microsoft Office applications, Exchange, Office 365 and Windows Server. Desk-side and remote support for users both local and around Australia. Specialist application support including Adobe Creative Cloud, AutoDesk CAD/BIM and ArcGIS packages. Mobile (iOS and Android) device setup and support. Troubleshooting network/WiFi and printer issues. Audio visual set up and support including Cisco Telepresence Video Conferencing system.
 
 Monitoring and triaging of requests in ticketing system, ensuring correct request fulfilment and incident management processes are followed. Maintaining knowledge management systems in line with company policy and ITIL framework.
 
-*Key Achievements:*
+*Key Achievements*
 * Completed PC/laptop refresh for over 300 staff with high customer satisfaction level.
 * Implemented new script-based backup solution to expedite PC refresh process.
 * Internal Net Promoter Score award for "above and beyond" customer service.
@@ -135,47 +136,50 @@ Monitoring and triaging of requests in ticketing system, ensuring correct reques
 `Pre 2014`
 ### Previous Work History
 
-**Please visit my <a href="https://www.linkedin.com/in/craig-linke-b09754138/">LinkedIn</a> page for older work history.**
+*Please visit my <a href="https://www.linkedin.com/in/craig-linke-b09754138/">LinkedIn</a> page for more work history.*
 
 ## Training / Certifications
 
 `2024`
-**CCFA - CrowdStrike Certified Falcon Administrator** - *CrowdStrike University*
+CCFA - CrowdStrike Certified Falcon Administrator - *CrowdStrike University*
 
 `2023`
-**PTT 105 - Sales Engineering** - *CrowdStrike University*
+PTT 105 - Sales Engineering - *CrowdStrike University*
 
 `2020`
-**MS-900 - Microsoft 365 Fundamentals** - *Microsoft*
+MS-900 - Microsoft 365 Fundamentals - *Microsoft*
 
 `2019`
-**NSE1 & NSE2 - Network Security Associate** - *Fortinet*
+NSE1 & NSE2 - Network Security Associate - *Fortinet*
 
 `2017`
-**Programming for Everybody (Python)** - *Cousera / University of Michigan*
+Programming for Everybody (Python) - *Cousera / University of Michigan*
 
 `2016`
-**ITIL Foundation Certificate in IT Service Management** - *DDLS*
+ITIL Foundation Certificate in IT Service Management - *DDLS*
 
-**Linux Foundation Certified System Administrator** - *The Linux Foundation*
+`2016`
+Linux Foundation Certified System Administrator - *The Linux Foundation*
 
 ## Education
 
 `2007-2010`
-**Bachelor of Communication (Majors: Scriptwriting, Film & Video)**, *Edith Cowan University*, Perth, WA, AUS.
+Bachelor of Communication (Majors: Scriptwriting, Film & Video), *Edith Cowan University*, Perth, WA, AUS.
 
 `2006`
-**Certificate 1 Information Technology**, *C.Y. O'Connor College TAFE*, Moora, WA, AUS.
+Certificate 1 Information Technology, *C.Y. O'Connor College TAFE*, Moora, WA, AUS.
 
 `2002-2006`
-**WACE**, *Graduated Highschool with WACE*, *Central Midlands Senior High School*, Moora, WA, AUS.
+WACE, *Graduated Highschool with WACE*, *Central Midlands Senior High School*, Moora, WA, AUS.
 
 ## References
 
 *Available upon request, please reach out via LinkedIn.*
 
-<!-- ### Footer
 
-Last updated: May 2025 -->
+### About this site
 
+This site was written in markdown, is hosted on <a href="https://github.com">GitHub</a> and served via <a href="https://netlify.com">Netlify.</a>
+
+Last updated: May 2025
 
