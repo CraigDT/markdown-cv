@@ -189,7 +189,24 @@ strong {
 	display: none;
 }
 
+#no-print {
+	font: normal normal 400;
+	font-size: 100%;
+	line-height: 1.5em;
+	font-family: Overpass,Avenir,Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 0em;
+	color: #aaa;
+}
 
+#page-break {
+	display: none;
+}
+
+hr {
+	color: #fff;
+	display: none;
+}
 
 /*
 @media only screen and (max-width: 480px) {

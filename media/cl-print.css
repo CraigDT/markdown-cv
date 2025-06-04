@@ -57,8 +57,9 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Overpass,Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 0.5cm;
+	margin-left: 0.5cm;
+	margin-bottom: 0.5cm;
 }
 
 p {
@@ -176,6 +177,19 @@ a:hover {
 	text-decoration: none;
 }
 
+#no-print {
+	display: none;
+}
+
+#page-break {
+	break-after: page;
+}
+
+hr {
+	color: #fff;
+	display: none;
+}
+
 em {
 	font-style: normal;
 	/*color: #2d4e5e*/
@@ -189,6 +203,4 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
 

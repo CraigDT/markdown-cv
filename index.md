@@ -40,6 +40,10 @@ I worked in collaboration with other teams within Falcon Complete and the wider 
 * Hosted 100+ customer onboarding 1:1 sessions and webinars
 * Facilitated the Falcon Complete onboarding for a large enterprise customer with over 30000 endpoints.
 
+<div id="page-break">
+<hr>
+</div>
+
 `Oct 2022 - Dec 2023`
 ### Ever Nimble
 
@@ -77,6 +81,10 @@ Leading a small team in the scoping, design and delivery of client projects. Inc
 * Project management, scoping, procurement, and implementation of small Mine site IT Infrastructure in remote WA, including satellite NBN, firewall, switching, wifi and file server.
 * Implementing Microsoft Teams video conferencing solutions, both hardware and Microsoft 365 configuration.
 
+<div id="page-break">
+<hr>
+</div>
+
 `Sep 2019 - Nov 2020`
 ### Ever Nimble
 
@@ -109,9 +117,7 @@ Microsoft 365 configuration and support, including security response, allowlisti
 
 **Technical Support Officer**
 
-Providing level 1-3 support and troubleshooting for software, hardware and network systems. Phone, email and desk side support for a diverse staff spread throughout Western Australia. Windows environment account management including Active Directory and Office 365/Exchange Online. Performing Windows deployments using Microsoft Deployment Tools.
-
-Monitoring and triaging user requests and system alerts in ticketing systems, incident tracking and management.
+Providing level 1-3 support and troubleshooting for software, hardware and network systems. Phone, email and desk side support for a diverse staff spread throughout Western Australia. Windows environment account management including Active Directory and Office 365/Exchange Online. Performing Windows deployments using Microsoft Deployment Tools. Monitoring and triaging user requests and system alerts in ticketing systems, incident tracking and management.
 
 Ensuring requests are correctly prioritised and actioned within agreed time frames. Maintaining a high standard of communication with end users and colleagues, providing appropriate and comprehensive information.
 
@@ -176,10 +182,8 @@ WACE, *Graduated Highschool with WACE*, *Central Midlands Senior High School*, M
 
 *Available upon request, please reach out via LinkedIn.*
 
-
-### About this site
-
-This site was written in markdown, is hosted on <a href="https://github.com">GitHub</a> and served via <a href="https://netlify.com">Netlify.</a>
-
-Last updated: May 2025
-
+<div id="no-print">
+<h3>About this site</h3>
+<p>This site was written in markdown, is hosted on <a href="https://github.com">GitHub</a> and served via <a href="https://netlify.com">Netlify.</a></p>
+<p>Last updated: June 2025</p>
+</div>
