@@ -70,7 +70,7 @@ WACE, *Graduated Highschool with WACE*, *Central Midlands Senior High School*, M
 `Jun 2025 - Present`
 ### Triskele Labs
 
-**Techincal Customer Success Manager**
+**Technical Customer Success Manager**
 
 Working closely with our SOC team and clients. Conducting quarterly client reviews, analysing monthly SOC reports and providing strategic recommendations to enhance clients' security posture. 
 
