@@ -17,7 +17,8 @@ Cyber Security Professional / Customer Focussed / Creative Problem Solver / IT A
 
 Outside of work I enjoy photography, films, playing music and a nice wine or craft beer.
 
-I am based in *Perth, Western Australia*, open to *remote* and *hybrid* roles.
+I am based in *Perth, Western Australia.*
+<-- I am based in *Perth, Western Australia*, open to *remote* and *hybrid* roles. -->
 
 *(If you received this document as a PDF you may want to <a href="https://cv.craiglinke.com">view it online</a> for a better experience.)*
 
@@ -66,6 +67,16 @@ Certificate 1 Information Technology, *C.Y. O'Connor College TAFE*, Moora, WA, A
 WACE, *Graduated Highschool with WACE*, *Central Midlands Senior High School*, Moora, WA, AUS.
 
 ## Career Details
+
+`Jun 2025 - Present`
+### Triskele Labs
+
+**Techincal Customer Success Manager**
+
+Working closely with our SOC team and clients. Conducting quarterly client reviews, analysing monthly SOC reports and providing strategic recommendations to enhance clients' security posture. 
+
+Identifying and recommending additional services to meet clients’ evolving needs, coordinating with the sales team to align on scope and delivery requirements.
+Acting as a primary point of contact for technical escalations, ensuring efficient and effective resolution of client queries.
 
 `Jan 2024 - May 2025`
 ### CrowdStrike
