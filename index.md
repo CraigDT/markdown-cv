@@ -18,7 +18,6 @@ Cyber Security Professional / Customer Focussed / Creative Problem Solver / IT A
 Outside of work I enjoy photography, films, playing music and a nice wine or craft beer.
 
 I am based in *Perth, Western Australia.*
-<-- I am based in *Perth, Western Australia*, open to *remote* and *hybrid* roles. -->
 
 *(If you received this document as a PDF you may want to <a href="https://cv.craiglinke.com">view it online</a> for a better experience.)*
 
