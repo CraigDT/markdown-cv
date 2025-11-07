@@ -33,6 +33,9 @@ Holds a Bachelor of Communication, complemented by certifications in CrowdStrike
 
 ## Training / Certifications
 
+`2025`
+AZ-900 - Microsoft Certified: Azure Fundamentals - *Microsoft*
+
 `2024`
 CCFA - CrowdStrike Certified Falcon Administrator - *CrowdStrike University*
 
